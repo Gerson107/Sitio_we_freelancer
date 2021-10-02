@@ -1,2 +1,2 @@
-# Sitio_we_freelancer
+# Sitio_web_freelancer
 Este es un sitio web para un freelancer.
